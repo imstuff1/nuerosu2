@@ -1,6 +1,7 @@
 # Neurosu: Neuro Punch Revolution!
 
-imstuff1.github.io/neurosu
+(includes new assets for each level and fixes bug where levels after the first one do not start correctly)
+https://imstuff1.github.io/neurosu2
 
 ## Credits
 
